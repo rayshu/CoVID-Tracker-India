@@ -8,5 +8,4 @@
 
 References: [Understanding the need to plot logarithimc values for total vs daily new cases](https://youtu.be/54XLXg4fYsc)
 
-[CoVID-19 Tracking app for India](https://www.covid19india.org/)
 
